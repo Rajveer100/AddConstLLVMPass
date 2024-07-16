@@ -1,0 +1,9 @@
+# ninja log v6
+2023	2125	1721132327439224725	lib/libAddConst.so	f38ef60e1da0c135
+2	2022	1721132325418220298	lib/CMakeFiles/AddConst.dir/AddConstPlugin.cpp.o	80be3de4fbb734e2
+1	1096	1721132325417631542	lib/CMakeFiles/AddConst.dir/AddConstAnalysis.cpp.o	bac26c88ab5d5964
+12	1252	1721133946231072712	build.ninja	2795bc1bdd52c54d
+32	4018	1721133946269434683	lib/CMakeFiles/AddConst.dir/AddConstPass.cpp.o	cb4b1d4c64c8d6d6
+31	4024	1721133946268503583	lib/CMakeFiles/AddConst.dir/AddConstAnalysis.cpp.o	bac26c88ab5d5964
+32	4874	1721133946269301848	lib/CMakeFiles/AddConst.dir/AddConstPlugin.cpp.o	80be3de4fbb734e2
+4874	5193	1721133951111158155	lib/libAddConst.so	4b08eb53a0b0eceb
